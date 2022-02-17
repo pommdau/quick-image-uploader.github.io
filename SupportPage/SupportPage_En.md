@@ -1,4 +1,4 @@
-# QuickImageUploader
+## QuickImageUploader
 
 <img width="200" alt="image" src="https://i.imgur.com/KDoOAkk.png">
 
@@ -10,7 +10,7 @@
 <img width="400" alt="image" src="https://i.imgur.com/3QfWZaI.png">
 
 ## Key Features
-### 画像のアップロード
+### Uploading images
 - There are several ways to upload images, so please use the one that is convenient for you.
     - Upload an image from the clipboard: Hotkey / Menubar icon menu
     - Drag-and-drop image upload: Main window / Menubar icon / Dock icon
