@@ -4,7 +4,8 @@
 
 ## どういうアプリ？
 
-QuickImageUploaderは、画像をお手軽にホスティングサービスへアップロードするためのツールです。またアップロードした画像のURLを任意の形式でコピーできるので、例えばMarkdownの編集で画像を扱いたいとき等に便利です。
+- QuickImageUploaderは画像を手軽にホスティングサービスへアップロードするためのツールです。
+- またアップロードした画像のURLを任意の形式でコピーできるので、例えばMarkdownの編集で画像を扱いたいとき等に便利です。
 
 <img width="400" alt="image" src="https://i.imgur.com/3QfWZaI.png">
 
@@ -15,8 +16,13 @@ QuickImageUploaderは、画像をお手軽にホスティングサービスへ�
     - ドラッグ・アンド・ドロップした画像のアップロード: メインウィンドウ / メニューバーアイコン / Dockアイコン
     - ダイアログから選択した画像のアップロード
 - 複数の画像のアップロードにも対応しています。
+- 例: 画像ファイルのドラッグ・アンド・ドロップ
 
 https://user-images.githubusercontent.com/29433103/154518219-54b6fff7-bb1b-4949-a98c-ecbb8267a4f9.mov
+
+- 例: クリップボードから選択
+
+https://user-images.githubusercontent.com/29433103/154524064-a8442ebf-b2cd-4f01-85cb-f7356f6b31ab.mov
 
 ### アップロードした画像の削除
 - アップロードした画像が不要になった際は、アプリから簡単に削除できます。
@@ -25,7 +31,7 @@ https://user-images.githubusercontent.com/29433103/154518621-0b86680d-67bd-4210-
 
 ### クリップボード上の画像をアップロードするホットキー
 - クリップボード上画像をアップロードするためのホットキーを用意しています。
-- 用途としては「具体的な使い方の例（後述）」を参照ください。
+- 用途としては「実践的な使い方の例（後述）」をご参照ください。
 
 <img width="400" alt="image" src="https://i.imgur.com/QnbkzRU.png">
 
@@ -44,7 +50,7 @@ https://user-images.githubusercontent.com/29433103/154518621-0b86680d-67bd-4210-
 
 <img width="400" alt="image" src="https://i.imgur.com/UAHhj3j.png">
 
-## 具体的な使い方の例
+## 実践的な使い方の例
 - スクリーンショットを撮りクリップボードへコピー
 - クリップボードの画像をアップロード(ホットキー)
 - URLを指定の形式でコピーしてMarkdown等の文書で使用
