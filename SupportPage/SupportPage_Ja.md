@@ -21,6 +21,15 @@ https://user-images.githubusercontent.com/29433103/154518219-54b6fff7-bb1b-4949-
 
 https://user-images.githubusercontent.com/29433103/154518621-0b86680d-67bd-4210-84eb-19cb26ab2b2a.mov
 
+### 通知
+- 画像のアップロード完了時に通知を行えます。
+
+<img width="400" alt="image" src="https://i.imgur.com/nePHaqh.png">
+
+- 通知が必要ない場合はアプリ設定からオフにできます。
+
+<img width="400" alt="image" src="https://i.imgur.com/UAHhj3j.png">
+
 ## 具体的な使い方の例
 - スクリーンショットを撮りクリップボードへコピー
 - クリップボードの画像をアップロード(ホットキー)
