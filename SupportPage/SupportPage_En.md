@@ -9,6 +9,8 @@
 
 <img width="400" alt="image" src="https://i.imgur.com/3QfWZaI.png">
 
+https://user-images.githubusercontent.com/29433103/154797333-8842546e-48d5-49c0-bb90-389443e32da5.mp4
+
 ## Key Features
 ### Uploading images
 - There are several ways to upload images, so please use the one that is convenient for you.
