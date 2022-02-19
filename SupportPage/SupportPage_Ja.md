@@ -2,12 +2,14 @@
 
 <img width="200" alt="image" src="https://i.imgur.com/KDoOAkk.png">
 
-## どういうアプリ？
+## どんなアプリ？
 
 - QuickImageUploaderは画像を手軽にホスティングサービスへアップロードするためのツールです。
 - またアップロードした画像のURLを任意の形式でコピーできるので、例えばMarkdownの編集で画像を扱いたいとき等に便利です。
 
 <img width="400" alt="image" src="https://i.imgur.com/8bt4i1q.png">
+
+https://user-images.githubusercontent.com/29433103/154797333-8842546e-48d5-49c0-bb90-389443e32da5.mp4
 
 ## 主な機能
 ### 画像のアップロード
